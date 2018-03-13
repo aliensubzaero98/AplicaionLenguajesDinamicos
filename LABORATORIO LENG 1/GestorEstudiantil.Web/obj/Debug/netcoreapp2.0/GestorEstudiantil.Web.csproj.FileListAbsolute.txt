@@ -1,0 +1,15 @@
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.Web\obj\Debug\netcoreapp2.0\GestorEstudiantil.Web.csprojResolveAssemblyReference.cache
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.Web\obj\Debug\netcoreapp2.0\GestorEstudiantil.Web.csproj.CoreCompileInputs.cache
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.Web\obj\Debug\netcoreapp2.0\GestorEstudiantil.Web.AssemblyInfoInputs.cache
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.Web\obj\Debug\netcoreapp2.0\GestorEstudiantil.Web.AssemblyInfo.cs
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.Web\bin\Debug\netcoreapp2.0\GestorEstudiantil.Web.deps.json
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.Web\bin\Debug\netcoreapp2.0\GestorEstudiantil.Web.runtimeconfig.json
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.Web\bin\Debug\netcoreapp2.0\GestorEstudiantil.Web.runtimeconfig.dev.json
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.Web\bin\Debug\netcoreapp2.0\GestorEstudiantil.Web.dll
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.Web\bin\Debug\netcoreapp2.0\GestorEstudiantil.Web.pdb
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.Web\bin\Debug\netcoreapp2.0\GestorEstudiantil.DataAcces.dll
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.Web\bin\Debug\netcoreapp2.0\GestorEstudiantil.models.dll
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.Web\bin\Debug\netcoreapp2.0\GestorEstudiantil.DataAcces.pdb
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.Web\bin\Debug\netcoreapp2.0\GestorEstudiantil.models.pdb
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.Web\obj\Debug\netcoreapp2.0\GestorEstudiantil.Web.dll
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.Web\obj\Debug\netcoreapp2.0\GestorEstudiantil.Web.pdb

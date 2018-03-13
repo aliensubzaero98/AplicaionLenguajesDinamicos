@@ -1,0 +1,11 @@
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.DataAcces\bin\Debug\netstandard2.0\GestorEstudiantil.DataAcces.deps.json
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.DataAcces\bin\Debug\netstandard2.0\GestorEstudiantil.DataAcces.dll
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.DataAcces\obj\Debug\netstandard2.0\GestorEstudiantil.DataAcces.csprojResolveAssemblyReference.cache
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.DataAcces\obj\Debug\netstandard2.0\GestorEstudiantil.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.DataAcces\obj\Debug\netstandard2.0\GestorEstudiantil.DataAcces.AssemblyInfoInputs.cache
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.DataAcces\obj\Debug\netstandard2.0\GestorEstudiantil.DataAcces.AssemblyInfo.cs
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.DataAcces\bin\Debug\netstandard2.0\GestorEstudiantil.DataAcces.pdb
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.DataAcces\bin\Debug\netstandard2.0\GestorEstudiantil.models.dll
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.DataAcces\bin\Debug\netstandard2.0\GestorEstudiantil.models.pdb
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.DataAcces\obj\Debug\netstandard2.0\GestorEstudiantil.DataAcces.dll
+C:\Users\ronal\Source\Repos\GestiorEstudiantil\GestorEstudiantil.DataAcces\obj\Debug\netstandard2.0\GestorEstudiantil.DataAcces.pdb

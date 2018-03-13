@@ -1,0 +1,69 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.0": {
+      "GestorEstudiantil.models/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/GestorEstudiantil.models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GestorEstudiantil.models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestorEstudiantil.models/1.0.0": {
+      "type": "project",
+      "path": "../GestorEstudiantil.models/GestorEstudiantil.models.csproj",
+      "msbuildProject": "../GestorEstudiantil.models/GestorEstudiantil.models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.0": [
+      "GestorEstudiantil.models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Dvies\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Dvies\\Downloads\\SUBIR\\laboratorio-1-creacion-de-una-aplicacion-ronallotalora98-master\\GestorEstudiantil.DataAcces\\GestorEstudiantil.DataAcces.csproj",
+      "projectName": "GestorEstudiantil.DataAcces",
+      "projectPath": "C:\\Users\\Dvies\\Downloads\\SUBIR\\laboratorio-1-creacion-de-una-aplicacion-ronallotalora98-master\\GestorEstudiantil.DataAcces\\GestorEstudiantil.DataAcces.csproj",
+      "packagesPath": "C:\\Users\\Dvies\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dvies\\Downloads\\SUBIR\\laboratorio-1-creacion-de-una-aplicacion-ronallotalora98-master\\GestorEstudiantil.DataAcces\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Dvies\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "projectReferences": {
+            "C:\\Users\\Dvies\\Downloads\\SUBIR\\laboratorio-1-creacion-de-una-aplicacion-ronallotalora98-master\\GestorEstudiantil.models\\GestorEstudiantil.models.csproj": {
+              "projectPath": "C:\\Users\\Dvies\\Downloads\\SUBIR\\laboratorio-1-creacion-de-una-aplicacion-ronallotalora98-master\\GestorEstudiantil.models\\GestorEstudiantil.models.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netstandard2.0": {}
+    }
+  }
+}
